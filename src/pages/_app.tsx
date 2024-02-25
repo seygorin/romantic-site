@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import { AppProps } from 'next/app';
 import Layout from '@/widgets/layouts';
 

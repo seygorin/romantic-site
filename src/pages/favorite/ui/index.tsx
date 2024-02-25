@@ -13,3 +13,5 @@ export const Favorite: React.FC = () => {
     </div>
   );
 };
+
+export default Favorite;

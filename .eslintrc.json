@@ -1,7 +1,3 @@
 {
-  "extends": ["plugin:@conarti/feature-sliced/recommended", "next/core-web-vitals"],
-  "rules": {
-    "@conarti/feature-sliced/public-api": "off",
-    "@conarti/feature-sliced/absolute-relative": "off"
-  }
+  "extends": ["plugin:@conarti/feature-sliced/recommended", "next/core-web-vitals"]
 }

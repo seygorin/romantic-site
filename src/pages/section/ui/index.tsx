@@ -13,3 +13,5 @@ export const Section: React.FC = () => {
     </div>
   );
 };
+
+export default Section;
